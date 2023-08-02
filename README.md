@@ -1,3 +1,9 @@
+<br>
+<p align="center">
+  <img src="/Screenshot/Memorize.gif" alt="" width="300" align="middle">
+</p>
+<br>
+
 # Memorize
 Stanford University's course CS193p Developing Applications for iOS using SwiftUI - 2021 Spring
 
